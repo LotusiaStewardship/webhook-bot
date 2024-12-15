@@ -1,0 +1,6 @@
+{
+  "prettier.ignorePath": ".prettierignore",
+  "[jsonc]": {
+    "editor.formatOnSave": false
+  }
+}
